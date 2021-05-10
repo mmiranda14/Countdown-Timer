@@ -12,6 +12,7 @@ h2 {
 	font-size: 4rem;
 	font-weight: bold;
 	padding: 3rem;
+	color: aqua;
 }
 
 .coming-soon {
@@ -20,12 +21,14 @@ h2 {
 	align-items: center;
 	flex-direction: column;
 	justify-content: center;
+	background: black;
 }
 
 .countdown {
 	display: flex;
 	justify-content: space-around;
 	text-align: center;
+	color: aqua;
 }
 
 .day,
@@ -33,6 +36,7 @@ h2 {
 .minute,
 .second {
 	font-size: 3rem;
+	color: aqua;
 }
 
 .image {
